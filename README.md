@@ -2,9 +2,6 @@
 ## Iva: A Playful Humanoid Robot with Educational Flare for Little Patients. 
 #### Group project By; 
 ### Aveen Najm (ST20069892) 
-### Jade Phillips (ST20141348) 
-### Molly Ide (ST20078980)  
-### Anil Rai (ST20103219)
 
 ![image](https://user-images.githubusercontent.com/81532727/119871772-b0ba8200-bf1a-11eb-91cc-7dbd6ad8e9ad.png)
 
