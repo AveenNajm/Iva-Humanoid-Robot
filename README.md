@@ -1,7 +1,6 @@
 # Iva-Humanoid-Robot
 ## Iva: A Playful Humanoid Robot with Educational Flare for Little Patients. 
-#### By; 
-### Aveen Najm 
+
 
 ![image](https://user-images.githubusercontent.com/81532727/119871772-b0ba8200-bf1a-11eb-91cc-7dbd6ad8e9ad.png)
 
