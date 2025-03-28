@@ -7,12 +7,6 @@
 
 
 
-
-## Introduction 
-
-Project topic one “Humanoid Robot as an Assistant Play Specialist in English and Welsh” has been chosen for A CIS6029 Social Humanoid Robotics assignment.
-This project documents the processes collectively carried out as a group to create Iva, a playful humanoid robot with educational flare for little patients. Project research showed the social care workforce to be declining, only to be impacted further by NHS funding cuts and the COVID-19 pandemic and so an urgent need for bigger, better solutions was evident. Further research found positive implications for the use of robotics for child patients and so, Iva was born. Using multiple sensors such as tactile sensors, facial detection and speech and object recognition, Iva proved to be an intelligent, fully functional robot backed by and created with careful research, design, planning, methodologies and ethical, social, cultural and legal considerations with abundant opportunity for future work and commercial application. 
-
 ## Iva’s Processes Flowchart Diagram 
 
 All processes involved and possible between a Iva and child patient interaction. This flowchart was created before development to keep track of and ensure correct, precise implementation. Show below diagram:
